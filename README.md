@@ -178,7 +178,7 @@ This problem was framed as a classification task due to the categorical nature o
 
 ### Model Description
 
-The baseline model uses the k-Nearest Neighbors (k-NN) algorithm to predict the role (position) of players based on their in-game statistics. The following features are included:
+The baseline model uses the K-Nearest Neighbors (KNN) algorithm to predict the role (position) of players based on their in-game statistics. The following features are included:
 
 - Quantitative Features (12):
     - damagetochampions: Total damge dealt to champions
